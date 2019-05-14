@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  check_in: 2019-05-14 12:59:00
+  check_out: 2019-05-14 12:59:00
+  num_of_person: 1
+  phone: MyString
+  city: MyString
+  country: MyString
+  num_of_children: 1
+  message: MyText
+
+two:
+  check_in: 2019-05-14 12:59:00
+  check_out: 2019-05-14 12:59:00
+  num_of_person: 1
+  phone: MyString
+  city: MyString
+  country: MyString
+  num_of_children: 1
+  message: MyText
